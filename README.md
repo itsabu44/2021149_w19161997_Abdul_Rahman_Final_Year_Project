@@ -55,27 +55,12 @@ The project follows the CRISP-DM methodology and covers the following stages:
 
 ---
 
-## Results Summary
-
-| Metric | Value |
-|---|---|
-| Total products forecasted | 252 |
-| Forecast horizon | 14 days |
-| Average MAE | 128.59 |
-| Average RMSE | 160.29 |
-| Average MAPE | 8.68% |
-| Class A products | 174 |
-| Class B products | 51 |
-| Class C products | 26 |
-
----
-
 ## Required Libraries
 
 Run the following command to install all required libraries:
 
 ```python
-pip install pandas numpy matplotlib scikit-learn prophet pmdarima statsmodels xgboost openpyxl
+pip install pandas numpy matplotlib scikit-learn prophet pmdarima statsmodels 
 ```
 
 ---
