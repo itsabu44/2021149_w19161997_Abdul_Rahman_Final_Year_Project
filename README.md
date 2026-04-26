@@ -20,6 +20,10 @@ The full dataset is not included in this repository due to file size limitations
 
 📁 **Google Drive Dataset Link:** [Click Here to Download Dataset](https://drive.google.com/drive/folders/160N9aRHFl056gvkfHhppmQmN2uYXNFIS?usp=sharing)
 
+The Google Drive folder contains:
+- Dataset CSV files (sales.csv, products.csv, categories.csv)
+- Power BI Dashboard file (w1961997_20211459_6DATA007C.Y_FYP_Dashboard.pbix)
+
 Although the dataset consists of seven related CSV files only the following three files are required to run the project:
 - `sales.csv`
 - `products.csv`
@@ -67,8 +71,8 @@ pip install pandas numpy matplotlib scikit-learn prophet pmdarima statsmodels
 
 ## How to Run
 
-1. Download the dataset from the Google Drive link above
-2. Save the dataset files in the same folder as the notebook
+1. Download the dataset and dashboard files from the Google Drive link above
+2. Save the dataset CSV files in the same folder as the Python notebook
 3. Open `w1961997_20211459_6DATA007C.Y_FYP_Main code.ipynb` in Jupyter Notebook
 4. Run all cells from top to bottom
 5. Output files will be saved automatically in a `pipeline_outputs` folder
