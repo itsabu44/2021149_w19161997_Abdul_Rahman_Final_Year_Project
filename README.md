@@ -16,7 +16,7 @@ This project develops a demand forecasting system for a supermarket chain using 
 
 ## Dataset
 
-The full dataset is not included in this repository due to file size limitations. The dataset used in this project is the Kaggle Grocery Sales Database and can be downloaded from the link below:
+The full dataset and the power bi file is not included in this repository due to file size limitations. The dataset used in this project is the Kaggle Grocery Sales Database and power bi file can be downloaded from the link below:
 
 📁 **Google Drive Dataset Link:** [Click Here to Download Dataset](https://drive.google.com/drive/folders/160N9aRHFl056gvkfHhppmQmN2uYXNFIS?usp=sharing)
 
