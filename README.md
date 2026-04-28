@@ -23,6 +23,7 @@ The full dataset and the power bi file is not included in this repository due to
 The Google Drive folder contains:
 - Dataset CSV files (sales.csv, products.csv, categories.csv)
 - Power BI Dashboard file (w1961997_20211459_6DATA007C.Y_FYP_Dashboard.pbix)
+- Project results files, Final_master_data_daily_v2 and the Inventory output excel files.
 
 Although the dataset consists of seven related CSV files only the following three files are required to run the project:
 - `sales.csv`
