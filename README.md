@@ -10,7 +10,6 @@ This project develops a demand forecasting system for a supermarket chain using 
 | File | Description |
 |---|---|
 | `w1961997_20211459_6DATA007C.Y_FYP_Main code.ipynb` | Main Python notebook containing the full forecasting pipeline |
-| `w1961997_20211459_6DATA007C.Y_FYP_Dashboard.pbix` | Interactive Power BI dashboard file |
 
 ---
 
