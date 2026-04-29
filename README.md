@@ -88,7 +88,7 @@ pip install pandas numpy matplotlib scikit-learn prophet pmdarima statsmodels
 | Student Name | Abdul Rahman |
 | Student ID | w1961997 / 20211459 |
 | Module | 6DATA007C.Y — Final Year Project |
-| Institution | University of Westminster |
+
 
 
 
