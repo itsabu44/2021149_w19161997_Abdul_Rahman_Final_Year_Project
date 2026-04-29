@@ -24,7 +24,7 @@ The Google Drive folder contains:
 - Power BI Dashboard file (w1961997_20211459_6DATA007C.Y_FYP_Dashboard.pbix)
 - Project results files, Final_master_data_daily_v2 and the Inventory output excel files.
 
-Although the dataset consists of seven related CSV files only the following three files are required to run the project:
+Although the chosen dataset consists of seven related CSV files only the following three files are required to run the project:
 - `sales.csv`
 - `products.csv`
 - `categories.csv`
